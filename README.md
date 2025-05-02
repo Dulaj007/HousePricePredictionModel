@@ -45,7 +45,7 @@ pip install pandas scikit-learn
 ### 3. Run the Code
 
 
-##🔎 How It Works
+## 🔎 How It Works
 
 - Load the data using pandas
 - Select relevant features (like area, year, etc.)
@@ -54,4 +54,4 @@ pip install pandas scikit-learn
 - Evaluate the model using mean_absolute_error
 - Predict prices on unseen data
 
-##⭐️ If you liked this project, give it a star and follow me on GitHub!
+## ⭐️ If you liked this project, give it a star and follow me on GitHub!
