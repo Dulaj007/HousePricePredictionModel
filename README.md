@@ -1,4 +1,4 @@
-# 🏠 HousePricePredictionModel
+# 🏠 House Price Prediction Model
 
 A simple yet powerful **Supervised Machine Learning Regression** project that uses **Random Forest Regressor** to predict house prices 🧠📈.  
 This project is perfect for beginners looking to understand how to train, test, and evaluate a basic ML model with real-world housing data.
