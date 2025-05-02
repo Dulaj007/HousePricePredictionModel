@@ -29,6 +29,9 @@ X = home_data[features]
 # in here we divide our home_data file into traning data and test data to masture MAE
 train_X, val_X, train_y, val_y = train_test_split(X, y, random_state=1)
 
+# Example: 80% training, 20% validation
+# train_X, val_X, train_y, val_y = train_test_split(X, y, test_size=0.2, random_state=1)
+
 # 5. Define the model (Random Forest - usually better than single Decision Tree)
 model = RandomForestRegressor(random_state=1)
 
