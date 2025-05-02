@@ -37,13 +37,13 @@ We used **Ames Housing Data** (`train.csv` and `test.csv`) which contains inform
 ````bash
 git clone https://github.com/yourusername/HousePricePredictionModel.git
 cd HousePricePredictionModel
-
+````
 ### 2. Install Dependencies
 ```bash
 pip install pandas scikit-learn
-
-### 3. Run the Code
 ````
+### 3. Run the Code
+
 
 ##🔎 How It Works
 
